@@ -223,4 +223,4 @@ jMatplot/
 
 ## License
 
-See `LICENSE` file (if present) for terms.
+Apache License 2.0
