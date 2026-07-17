@@ -9,7 +9,7 @@ jMatplot mirrors matplotlib's object-oriented API — `Figure`, `Axes`, and `Art
 
 | Requirement | Version |
 |---|---|
-| Java | 17+ |
+| Java | 26+ |
 | Build tool | Maven 3.6+ |
 
 No third-party runtime dependencies. Test scope only: JUnit 5.10, Mockito 5.5.
