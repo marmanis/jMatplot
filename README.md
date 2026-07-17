@@ -2,6 +2,7 @@
 
 A Java/Swing port of the [matplotlib](https://matplotlib.org/) plotting library.  
 jMatplot mirrors matplotlib's object-oriented API — `Figure`, `Axes`, and `Artist` subclasses — while rendering entirely through Java 2D (AWT/Swing), with no native dependencies.
+I will build other renderers over time. Happy plotting in Java!
 
 ---
 
